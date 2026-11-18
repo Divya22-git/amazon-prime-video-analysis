@@ -29,7 +29,6 @@ An interactive Power BI dashboard developed to analyse Amazon Prime Video's cont
 - Power BI Dashboard (.pbix)
 - Dashboard Report (.pdf)
 - Dataset (.csv)
-- Dashboard Screenshot (.png)
 
 ## Skills Demonstrated
 Data Cleaning | Data Visualization | Power BI | DAX | Power Query
